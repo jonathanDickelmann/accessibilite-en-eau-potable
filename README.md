@@ -1,9 +1,7 @@
 # accessibilite-en-eau-potable
 Réalisation d'une étude sur l'accessibilité en eau potable dans le monde.
 
-![aperçu](https://github.com/jonathanDickelmann/accessibilite-en-eau-potable/blob/main/img/Aperçu tableau de bord.PNG)
-
-Source: https://prograide.com/pregunta/2181/comment-ajouter-des-images-au-fichier-readmemd-sur-github
+![aperçu](https://github.com/jonathanDickelmann/accessibilite-en-eau-potable/blob/main/img/Aperçu_tableau_de_bord.PNG)
 
 Ce tableau de bord a été réalisé à partir de Tableau Desktop
 
