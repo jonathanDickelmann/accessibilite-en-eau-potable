@@ -1,4 +1,4 @@
-# accessibilite-en-eau-potable
+# Accessibilité en eau potable dans le monde
 Réalisation d'une étude sur l'accessibilité en eau potable dans le monde.
 
 ![aperçu](https://github.com/jonathanDickelmann/accessibilite-en-eau-potable/blob/main/img/Aperçu_tableau_de_bord.PNG)
